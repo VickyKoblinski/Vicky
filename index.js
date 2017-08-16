@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const chalk = require("chalk");
 const vcolor = chalk.red;
 const icolor = chalk.yellow;
@@ -5,6 +6,9 @@ const ccolor = chalk.green;
 const kcolor = chalk.blue;
 const ycolor = chalk.magenta;
 
+/**
+ * The Vicky Engine
+ */
 console.log(
   `
 ${vcolor(`VVVVVVVV           VVVVVVVV`)}${icolor(` iiii  `)}${ccolor(`                    `)}${kcolor(`kkkkkkkk           `)}                         

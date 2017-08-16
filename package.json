@@ -1,6 +1,6 @@
 {
   "name": "vicky",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A Vicky npm package.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.1.0"
+  },
+  "bin": {
+    "vicky": "./index.js"
   },
   "keywords": [
     "color",
