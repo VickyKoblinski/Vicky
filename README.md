@@ -1,11 +1,6 @@
-<h1 align="center">
-	<br>
-	<br>
-	<img width="320" src="https://raw.githubusercontent.com/VickyKoblinski/vicky/master/media/vicky.png" alt="chalk">
-	<br>
-	<br>
-	<br>
-</h1>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/VickyKoblinski/vicky/master/media/vicky.png" alt="chalk">
+</div>
 
 > The Best Vicky Package on the 'Net!
 
